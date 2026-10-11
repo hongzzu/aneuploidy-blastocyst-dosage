@@ -1,0 +1,11 @@
+{
+  "title": "Analysis code: Within-embryo pseudobulk reveals chromosome-specific dosage effects in human aneuploid blastocysts",
+  "creators": [
+    {"name": "Yu, Jihong", "orcid": "0009-0005-3900-9648"}
+  ],
+  "description": "Python analysis code for a within-embryo pseudobulk analysis of chromosome-specific dosage effects in 198 human blastocysts (14,082 cells), including the chromosome-mismatch specificity contrast, permutation confirmation, rank-based GSEA, mixed-effects modelling and an MR power calculation. Companion code for the manuscript submitted to Human Reproduction.",
+  "access_right": "open",
+  "license": "MIT",
+  "upload_type": "software",
+  "keywords": ["aneuploidy", "blastocyst", "single-cell RNA-seq", "pseudobulk", "chromosome dosage", "TWAS", "Mendelian randomisation"]
+}
